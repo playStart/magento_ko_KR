@@ -1,6 +1,6 @@
 "%s","%s"
-"%s already exist.","%s 는 이미 존쟈합니다."
-"%s already exists.","%s 는 이미 존쟈합니다."
+"%s already exist.","%s 는 이미 존재 합니다."
+"%s already exists.","%s 는 이미 존재 합니다."
 "-- Please Select --","-- 선택하세요 --"
 "<strong style=""color:red"">Warning!</strong> When using CDN, in some cases JavaScript may not run properly if CDN is not in your subdomain","<strong style=""color:red"">경고!!</strong> CDN을 사용하실때 CDN이 당신의 서브 도메인이 아니면 일부 자바스크립트는 실행할 수 없습니다."
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.)."
