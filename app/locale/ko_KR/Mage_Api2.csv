@@ -105,6 +105,7 @@
 "Low Stock Date","Low Stock Date"
 "Manage Stock","Manage Stock"
 "Maximum Qty Allowed in Shopping Cart","장바구니 최대 수량"
+"Minimum Qty Allowed in Shopping Cart","장바구니 최소수량"
 "New Role","New Role"
 "Notify for Quantity Below","Notify for Quantity Below"
 "OAuth","OAuth"
