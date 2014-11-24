@@ -51,7 +51,7 @@
 "Pending","대기중"
 "Pending Tags","대기중 TAG"
 "Popular","Popular"
-"Popular Tags","인기 TAG"
+"Popular Tags","Popular Tags"
 "Price","가격"
 "Product Name","상품명"
 "Product SKU","Product SKU"
@@ -99,3 +99,7 @@
 "You have not tagged any products yet.","You have not tagged any products yet."
 "ZIP/Post Code","ZIP/Post Code"
 "[STORE VIEW]","[STORE VIEW]"
+
+"Customers Tags","고객 TAG"
+"Products Tags","상품 TAG"
+"Popular Tags","인기 TAG"

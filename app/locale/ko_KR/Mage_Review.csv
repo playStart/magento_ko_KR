@@ -8,6 +8,7 @@
 "5 stars","5 stars"
 "<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
 "Add New Review","신규 리뷰 등록"
+"Add Review","리뷰쓰기"
 "Add Your Review","Add Your Review"
 "Administrator","관리자"
 "All Reviews","모든리뷰"
