@@ -9,7 +9,7 @@
 "Compiler include path is enabled.","Compiler include path is enabled."
 "Directory ""%s"" must be writeable","Directory ""%s"" must be writeable"
 "Disable","Disable"
-"Disabled","Disabled"
+"Disabled","비활성화"
 "Enable","Enable"
 "Enabled","Enabled"
 "File ""%s"" must be writeable","File ""%s"" must be writeable"
