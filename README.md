@@ -2,6 +2,7 @@ magento ko KR
 =============
 
 Magento 1.9.0.1 base Korean Language Pack
+
 마젠토 1.9.0.1 기반 한국어 언어팩
 
 ## introduce
