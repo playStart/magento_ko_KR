@@ -24,3 +24,6 @@ it's not good now. but be update more.
 if someone want to join it, welcome.
 
 
+## Author
+
+poprdo@gmail.com, hjt1761@gmail.com
